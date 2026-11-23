@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=ME+PASSAMAQUODDY+TRIBE",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=ME+PASSAMAQUODDY+TRIBE",
+  "title": "Federal Register - ME PASSAMAQUODDY TRIBE",
+  "fetched_at": "2026-11-23T17:34:12.972318Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 303338,
+  "sha256": "dee3c8b0f6412fb11c2b54356d1b4b07a9dc26b7a431152fdb61df27dc0afcfb",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
